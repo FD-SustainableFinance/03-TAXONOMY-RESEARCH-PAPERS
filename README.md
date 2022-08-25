@@ -37,8 +37,13 @@ Disclosures and Requiremnts can be found [here](https://www.eba.europa.eu/sites/
 
 ### SASB 
 
-### EFRAG
+The Sustainability Accounting Standards Board (SASB) is a nonprofit organisation that works independently. Its goal is to create and promote sustainability accounting standards that assist public companies in providing investors with important, decision-useful information. A thorough procedure that involves evidence-based research and substantial, balanced stakeholder input is used to carry out that aim.
+SASB develop sustainability accounting standards most relevant to the financial performance in 77 industries to help businesses provide investors and other capital market participants with decision-useful information about a variety of sustainability-related risks and opportunities by identifying the sustainability disclosure topics that are most pertinent to enterprise value for the typical company in an industry.
 
+SASB stnadards can de downloaded from their site [here](https://www.sasb.org/standards/download/?lang=en-us)
+
+### EFRAG
+[EFRAG](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_2.pdf) 
 ### SEC
 
 
