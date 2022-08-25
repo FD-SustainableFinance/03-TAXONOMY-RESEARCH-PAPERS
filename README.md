@@ -45,8 +45,12 @@ SASB stnadards can de downloaded from their site [here](https://www.sasb.org/sta
 ### EFRAG
 [EFRAG](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_2.pdf) 
 ### SEC
-
-
+A domestic or international registrant would have to provide certain climate-related information in its registration statements and periodic reports under rule modifications the [Securities and Exchange Commission](file:///C:/Users/jkennedy/Downloads/SEC%20Proposed%20Disclosure%20Requirements%20(1).pdf) proposed.The proposed disclosures are comparable to those that many businesses now provide based on widely used disclosure frameworks, such the Greenhouse Gas Protocol and the Task Force on Climate-Related Financial Disclosures and would include:
+* How any identified climate-related risks have affected or are likely to affect the registrant's strategy, business model, and outlook
+* How any identified climate-related risks have affected or are likely to affect the registrant's processes for identifying, assessing and managing climate-related risks 
+* How any identified climate-related risks have manifested over the short-, medium-, or long-term.
+* Indirect emissions from upstream and downstream activities in a registrant’s value chain (Scope 3), if material, or if the registrant has set a GHG emissions target or goal that includes Scope 3 emissions, in absolute terms, not including offsets, and in terms of intensity
+* A registrant may also provide information about any identified climate-related opportunities in response to any of the governance, strategy, and risk management elements of the proposed rules.
 
 
 ### Other
