@@ -49,7 +49,7 @@ SASB stnadards can de downloaded from their site [here](https://www.sasb.org/sta
 
 
 
-
+### Other
 
 ## An Introduction to SF Taxonomy Mapping
 This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
