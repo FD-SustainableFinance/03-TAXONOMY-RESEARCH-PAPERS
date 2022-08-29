@@ -9,7 +9,7 @@ The EU Taxonomy is a tool for investors to use as they manage the shift to a low
 
 More detail on [EU Taxonomy](https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en) and hat the EU is doing to create an EU-wide classification system for sustainable activities is here. 
 
-## A Taxonomy Analysis of ISSB EBA Pillar 3, SASB, EFRAG and SEC
+## A Taxonomy Analysis of ISSB, EBA Pillar 3,TCFD, SASB, EFRAG and SEC
 ### ISSB
 * The ISSB was founded by the IFRS Foundation at COP26 in Glasgow, November 2021.
 * Aims to develop standards that result in a comprehensive global baseline of sustainability disclosures focused on the needs of investors and the financial markets.
@@ -26,6 +26,10 @@ The ISSB published two draft standards proposals in March 2022:
 * [Exposure Draft IFRS S2](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf): Climate-related Disclosures
 
 The proposed S1 General Requirements would require companies to disclose information about all of their significant sustainability-related risks and opportunities. S2 Climate-related Disclosures provides specific guidance on reporting climate-related risks and opportunities. It incorporates the recommendations of the TCFD and includes metrics tailored to industry classifications derived from the industry-based SASB Standards.
+
+###TCFD
+
+
 ### EBA Pillar 3
 [The European Banking Authority (EBA)](https://www.eba.europa.eu/) is a regulatory agency of the European Union headquartered in Paris. Its activities include conducting stress tests on European banks to increase transparency in the European financial system and identifying weaknesses in banks' capital structures. Following the recent updates to the regulatory frameworks for credit institutions and investment firms, and the publication in 2018 of the European Commission’s action plan on sustainable finance, the EBA is implementing a new policy strategy on institutions’ Pillar 3 disclosures that seeks to increase efficiency of institutions’ disclosures and reinforce market discipline by developing a comprehensive framework with consistent and comparable disclosures.
 
@@ -40,10 +44,12 @@ Disclosures and Requiremnts can be found [here](https://www.eba.europa.eu/sites/
 The Sustainability Accounting Standards Board (SASB) is a nonprofit organisation that works independently. Its goal is to create and promote sustainability accounting standards that assist public companies in providing investors with important, decision-useful information. A thorough procedure that involves evidence-based research and substantial, balanced stakeholder input is used to carry out that aim.
 SASB develop sustainability accounting standards most relevant to the financial performance in 77 industries to help businesses provide investors and other capital market participants with decision-useful information about a variety of sustainability-related risks and opportunities by identifying the sustainability disclosure topics that are most pertinent to enterprise value for the typical company in an industry.
 
-SASB stnadards can de downloaded from their site [here](https://www.sasb.org/standards/download/?lang=en-us)
+SASB standards can de downloaded from their site [here](https://www.sasb.org/standards/download/?lang=en-us)
 
 ### EFRAG
 [EFRAG](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_2.pdf) 
+
+
 ### SEC
 A domestic or international registrant would have to provide certain climate-related information in its registration statements and periodic reports under rule modifications the [Securities and Exchange Commission](file:///C:/Users/jkennedy/Downloads/SEC%20Proposed%20Disclosure%20Requirements%20(1).pdf) proposed.The proposed disclosures are comparable to those that many businesses now provide based on widely used disclosure frameworks, such the Greenhouse Gas Protocol and the Task Force on Climate-Related Financial Disclosures and would include:
 * How any identified climate-related risks have affected or are likely to affect the registrant's strategy, business model, and outlook
@@ -63,5 +69,47 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 
 
 ## An Introduction to Insurance Regulation and Reporting
+Key Regulations (UK/EU)1)  
+#### 1) Solvency II – EU Directive
+Pillar 1 – valuation of assets/liabilities and capital requirements
+* Sets out how insurers should value:
+    * liabilities inc. payouts to policyholders in event of a claim
+    * assets (such as government bonds, shares, property, etc)
+    * amount of funds to be held in reserve as a buffer for paying policyholders' claims
+
+Pillar 2 – governance and risk management 
+* Sets out how insurers:
+    * should be governed
+    * identify, measure, monitor, manage and report the risks to which they are exposed
+    * ensure that their businesses are managed to a high standard
+* Includes the Own Risk and Solvency Assessment (ORSA)
+    * EIOPA has published guidelines for integrating climate change risk materiality assessment and scenario analyses within the ORSA (see Useful Links below)
+
+Pillar 3 – reporting and disclosure 
+* Sets out what information insurers report on their business
+*  Certain reporting required to be public, some privately reported to the national regulator
+*Under S2 P3, Firms must produce two key reports:
+    * Solvency and Financial Condition Report (SFCR): disclosed publicly and to the local National Competent Authority. Includes both qualitative and quantitative info     * Regular Supervisory Report (RSR): private report to the supervisor. Submitted to the local NCA in full at least every three years and in summary every year.   Includes both qualitative and quantitative information
+    * Additionally, Quantitative Reporting Templates (QRTs) and National Specific Templates (NSTs)
+    
+ 
+#### 2) International Association of Insurance Supervisors (IAIS) (under FSB)
+* Common Framework (ComFrame) for the Supervision of Internationally Active Insurance Groups
+* Insurance Capital Standards (ICS) for the supervision of large insurance groups that operate in a number of jurisdictions
+* Insurance Core Principles (ICPs), relating to the supervision of insurers generally
+* Global Systemically Important Insurers (G-SII) assessment methodology and policy framework, which forms part of the FSB’s broader framework for global systemically important financial institutions (G-SIFIs)
+
+#### 3) International (or UK) Financial Reporting Standards (IFRS/UKFRS)
+
+#### 4) Insurance Distribution Directive (IDD) – EU Directive
+* Regulates how insurance products are designed and distributed in the EU
+* Ensures distributors take responsibility for consumer outcomes and that products meet consumer needs·Imposes conduct of business and transparency rules on distributors
+* Clarifies procedures and rules for cross-border business
+* Covers supervision and sanctioning of insurance distributors that don’t comply with the IDD
+* Insurance product information document (IPID)
+
+#### 5) Packaged retail and insurance-based investment products (PRIIPs) – EU Regulation·
+* Improve transparency and comparability of investment products across the EU through key information documents (KIDs)
+* More of an investment regulation but affects investment products with built-in insurance (or vice versa)
 
 ## Sustainability and Aviation
