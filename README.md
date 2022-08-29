@@ -95,7 +95,7 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 
 
 ## An Introduction to Insurance Regulation and Reporting
-Key Regulations (UK/EU)1)  
+Key Regulations (UK/EU)
 #### 1) Solvency II – EU Directive
 Pillar 1 – valuation of assets/liabilities and capital requirements
 * Sets out how insurers should value:
