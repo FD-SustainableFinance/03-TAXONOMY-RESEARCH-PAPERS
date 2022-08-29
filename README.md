@@ -140,3 +140,4 @@ Green Asset Ratio (GAR) key performance indicator (KPI) under the Taxonomy Regul
 * In order to complete this study, banks must consider their product strategy. The future trajectory of the market for green goods is still unknown. However, it is likely that green products will become increasingly popular in order to make real progress toward the climate transition, to reach objectives like net zero, and to satisfy growing customer demand. To be following the EBA Guidelines on Loan Origination and Monitoring, EU banks must apply ESG considerations to every step of the loan origination process, including pricing. Banks now have an extra incentive to boost their loans to Taxonomy-aligned operations as a result of the GAR's adoption.
 
 ## Sustainability and Aviation
+[Add comment - no initial research undertaken as of yet]
