@@ -87,13 +87,6 @@ A domestic or international registrant would have to provide certain climate-rel
 
 ### Other
 
-## An Introduction to SF Taxonomy Mapping
-This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
-We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
-
-## An Architecture for SF Taxononmy Mapping
-
-
 ## An Introduction to Insurance Regulation and Reporting
 Key Regulations (UK/EU)
 #### 1) Solvency II – EU Directive
@@ -137,6 +130,7 @@ Pillar 3 – reporting and disclosure
 #### 5) Packaged retail and insurance-based investment products (PRIIPs) – EU Regulation·
 * Improve transparency and comparability of investment products across the EU through key information documents (KIDs)
 * More of an investment regulation but affects investment products with built-in insurance (or vice versa)
+
 
 ## Green Asset Ratio
 Green Asset Ratio (GAR) key performance indicator (KPI) under the Taxonomy Regulation shows the proportion of exposures related to Taxonomy-aligned activities compared to the total assets of those credit institutions. To represent the amount to which these institutions finance Taxonomy-aligned activities, the GAR should be related to the primary lending and investing operations of the credit institutions, including loans, advances, and debt instruments as well as their equity holdings. The GAR classifies both qualified and aligned green assets according to the EU's taxonomy for sustainable operations, measuring "green assets" as a percentage of a bank's overall assets.From the outset, one would assume that the calculation of GAR would be simple. However, difficulties include categorising exposures to calculate it, misreporting it and the way banks identify a way to utilise it as the world adjusts to the new age of climate sustainability. More precisely:
