@@ -1,3 +1,12 @@
+# OS-SF Taxonomy Research Overview 
+[Placeholder - Introduction] 
+* [An Introduction to SF Taxonomy](https://github.com/FD-SustainableFinance/An-Introduction-to-SF-Taxonomy)
+* [A Taxonomy Analysis of ISSB, TCFD, EBA Pillar 3, SASB, EFRAG and SEC](https://github.com/FD-SustainableFinance/A-Taxonomy-Analysis-of-ISSB-EBA-Pillar-3-TCFD-SASB-EFRAG-and-SEC)
+* [An Introduction to Insurance /regulation and Reporting](https://github.com/FD-SustainableFinance/An-Introduction-to-Insurance-Regulation-and-Reporting)
+* [Green Asset Ratio](https://github.com/FD-SustainableFinance/Green-Asset-Ratio)
+* [Sustainable Finance Disclosure Regulation](https://github.com/FD-SustainableFinance/Sustainable-Finance-Disclosure-Regulation)
+* [Aviation and Sustainability](https://github.com/FD-SustainableFinance/Aviation-and-Sustainability)
+
 # Research
 ## An Introduction to SF Taxonomy 
 The EU Taxonomy is a tool for investors to use as they manage the shift to a low-carbon economy and determine if a particular economic activity is environmentally sustainable. It enables investors to evaluate whether investments are fulfilling strict environmental requirements and are consistent with high-level policy commitments like the Paris Agreement on Climate Change by creating a common vocabulary amongst investors, issuers, project promoters, and policy makers.This should provide security for investors, safeguard private investors from greenwashing, assist businesses in becoming more environmentally friendly, lessen market fragmentation, and assist in directing investments to areas where they are most needed. In addition to the three classic categories of climate risk, this detailed taxonomy now incorporates a fourth category called "natural capital" to represent specific climate concerns:
