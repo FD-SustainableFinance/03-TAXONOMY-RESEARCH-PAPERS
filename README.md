@@ -1,4 +1,4 @@
-# OS-SF Taxonomy Research Overview 
+# Research Overview 
 [Placeholder - Introduction] 
 * [An Introduction to SF Taxonomy](https://github.com/FD-SustainableFinance/An-Introduction-to-SF-Taxonomy)
 * [A Taxonomy Analysis of ISSB, TCFD, EBA Pillar 3, SASB, EFRAG and SEC](https://github.com/FD-SustainableFinance/A-Taxonomy-Analysis-of-ISSB-EBA-Pillar-3-TCFD-SASB-EFRAG-and-SEC)
