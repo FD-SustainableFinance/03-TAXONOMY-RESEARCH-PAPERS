@@ -11,7 +11,22 @@
 # text in grey = notes
 ```
 
-# [3] Research Overview 
+# [3] TAXONOMY RESEARCH
+
+This needs a table format with:
+- name of research paper
+- contributing partners
+- links to individual reserach page - we will not reproduce the fiull research paper , that's too big
+   - on the link page set it up as a classic reserach summary page with Abstract plus other key information
+   - authors
+   - related research
+   - etc
+   
+ Tidy up, move and remove all other content below to match the above format.
+ Johnny
+
+-------------------------------------------------
+
 [Placeholder - Introduction] 
 * [An Introduction to SF Taxonomy](https://github.com/FD-SustainableFinance/An-Introduction-to-SF-Taxonomy)
 * [A Taxonomy Analysis of ISSB, TCFD, EBA Pillar 3, SASB, EFRAG and SEC](https://github.com/FD-SustainableFinance/A-Taxonomy-Analysis-of-ISSB-EBA-Pillar-3-TCFD-SASB-EFRAG-and-SEC)
