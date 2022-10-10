@@ -41,12 +41,6 @@ The EU Taxonomy is a tool for investors to use as they manage the shift to a low
 
 More detail on [EU Taxonomy](https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en) and hat the EU is doing to create an EU-wide classification system for sustainable activities is here. 
 
-
-
-![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
-
 # [1] TAXONOMY FILES
 
 [Note - The Library is a collation of all taxonomy projects]
