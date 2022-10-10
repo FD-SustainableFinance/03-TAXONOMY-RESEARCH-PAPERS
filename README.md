@@ -43,4 +43,25 @@ More detail on [EU Taxonomy](https://finance.ec.europa.eu/sustainable-finance/to
 
 
 
+![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
+**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
+# [1] TAXONOMY FILES
+
+[Note - The Library is a collation of all taxonomy projects]
+
+## Single Taxonomies
+OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
+
+|Taxonomy|Type|Stage|Documentation|Date of Latest Update|Taxonomy Source|
+|--------|----|-----|-------------|---------------------|------|
+|[ISSB Exposure Draft S1](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|[Exposure Draft on IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)|31 March 2022|First Derivative - Research|
+|[ISSB Exposure Draft S2](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|[Exposure Draft IFRS S2 Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)|31 March 2022|First Derivative - Research|
+|[ISSB Exposure Draft S2 Appendix B](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|[IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)|31 March 2022|First Derivative - Research|
+|[EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---EBA-PILLAR-3-DISCLOSURES)|Regulation|Final Draft Published|[Final draft implementing technical standards on prudential disclosures on ESG risks in accordance with Article 449a CRR](https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Draft%20Technical%20Standards/2022/1026171/EBA%20draft%20ITS%20on%20Pillar%203%20disclosures%20on%20ESG%20risks.pdf)|24 January 2022|First Derivative - Research|
+|[TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)|Framework|Published|[Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures](https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf)|October 2021|First Derivative - Research|
+|[SASB](https://github.com/FD-SustainableFinance/RESEARCH---SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD/tree/main)|Standard|Published|[SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)|Up to December 2021 (varies by industry)|First Derivative - Research|
+|[SEC](https://github.com/FD-SustainableFinance/RESEARCH---SECURITIES-EXCHANGE-COMMISSION)|Proposed Rule|Preliminary Feedback|[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)|21 March 2022|First Derivative - Research|
+|[EFRAG - ESRS 2 - General, strategy, governance and materiality assessment](https://github.com/FD-SustainableFinance/RESEARCH---EUROPEAN-FINANCIAL-REPORTING-ADVISORY-GROUP)|Standard|Public Consultation|[EFRAG - ESRS 2 - General, strategy, governance and materiality assessment](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_2.pdf)|29 April 2022|First Derivative - Research|
+|[GRI](https://github.com/FD-SustainableFinance/RESEARCH-UN-GLOBAL-COMPACT)|Standard|Public Consultation|[GRI 101 Foundations](https://www.globalreporting.org/standards/media/1036/gri-101-foundation-2016.pdf)|Public Consultation|29 April 2022|First Derivative - Research|
