@@ -7,18 +7,7 @@
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
 # [3] TAXONOMY RESEARCH
-
-This needs a table format with:
-- name of research paper
-- contributing partners
-- links to individual reserach page - we will not reproduce the fiull research paper , that's too big
-   - on the link page set it up as a classic reserach summary page with Abstract plus other key information
-   - authors
-   - related research
-   - etc
-   
- Tidy up, move and remove all other content below to match the above format.
- Johnny
+OS-SFT Service and Delivery Partner First Derivative along with numerous contributing partners have undertaken various research papers based various taxonomy and ESG related topics. The below table shows the research papers and contributing partners as well as the external owner and page link to the research
 
 |Research Paper|Contributing Partner|External Owner|Page Link|
 |--------------|--------------------|--------------|---------|
