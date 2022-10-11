@@ -26,8 +26,8 @@ This needs a table format with:
 |Green Contingent Swaps|Risk Care|David Kelly|Link Here|
 |Taxonomy Models for Societal Risk: a Proto-TSFD|Social Terrain/Forward ESG|Emery Brusset/Augustus Mac Farlane|Link Here|
 |Real Estate Portoflios|Sust Global|Alistair McGregor|Link Here|
-|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey|Link Here|
-|BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Johnny Mattimore/Taylor Cavendish|Link Here
-|The Big Green Short|Red Hat|Johnny Maittimore/Aric Rosenbaum|Link Here|
+|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-COMPLEX-PORTFOLIOS-FROM-ATOMIC-TO-CONSOLIDATED-TAXONOMY-MODELS)
+|BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Johnny Mattimore/Taylor Cavendish|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-BCBS-239-RISK-AGGREGATION-AND-BCBS530-CLIMATE-RISK)
+|The Big Green Short|Red Hat|Johnny Maittimore/Aric Rosenbaum|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-THE-BIG-GREEN-SHORT/tree/main)
 
 
