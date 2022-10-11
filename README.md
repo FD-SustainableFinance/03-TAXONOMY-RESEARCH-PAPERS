@@ -25,6 +25,9 @@ This needs a table format with:
 |Taxonomy Models for Climate Risk: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|Link Here|
 |Green Contingent Swaps|Risk Care|David Kelly|Link Here|
 |Taxonomy Models for Societal Risk: a Proto-TSFD|Social Terrain/Forward ESG|Emery Brusset/Augustus Mac Farlane|Link Here|
-
+|Real Estate Portoflios|Sust Global|Alistair McGregor|Link Here|
+|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey|Link Here|
+|BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Johnny Mattimore/Taylor Cavendish|Link Here
+|The Big Green Short|Red Hat|Johnny Maittimore/Aric Rosenbaum|Link Here|
 
 
