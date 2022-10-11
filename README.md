@@ -7,7 +7,7 @@
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
 # [3] TAXONOMY RESEARCH
-OS-SFT Service and Delivery Partner First Derivative along with numerous contributing partners have undertaken various research papers based various taxonomy and ESG related topics. The below table shows the research papers and contributing partners as well as the external owner and page link to the research
+OS-SFT Service and Delivery Partner First Derivative along with numerous contributing partners have undertaken various research papers based various taxonomy and ESG related topics. The below table shows the research papers and contributing partners as well as the external owner and page link to the research.
 
 |Research Paper|Contributing Partner|External Owner|Page Link|
 |--------------|--------------------|--------------|---------|
