@@ -19,7 +19,7 @@ Examples of questions which have been discussed for potential research papers in
 9. **Climate Risk 2-5 years**: How can one use climate risk model taxonomies for price and credit risk in the next 3-5 year window?
 10. **Climate Risk Simplification**:Can I find simpler, smaller climate risk model taxonomies and will they be effective?  
 
-**Library of Research Papers**
+## Library of Research Papers
 ```diff
 - Under development - Research Papers shall be posted here by Contributing Partners
 ```
