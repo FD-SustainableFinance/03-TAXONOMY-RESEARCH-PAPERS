@@ -25,12 +25,12 @@ Examples of questions which have been discussed for potential research papers in
 
 |Research Paper|Contributing Partner|External Owner|Page Link|
 |--------------|--------------------|--------------|---------|
-|Taxonomy Models for Climate Risk: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODELS-FOR-CLIMATE-RISK-FROM-CHAOS-COMPLEXITY-TO-ORDER-SIMPLICITY)
-|Green Contingent Swaps|Risk Care|David Kelly|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-GREEN-CONTINGENT-SWAPS)
-|Taxonomy Models for Societal Risk: a Proto-TSFD|Social Terrain/Forward ESG|Emery Brusset/Augustus Mac Farlane|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODLES-FOR-SOCIETAL-RISK-A-PROTO-TSFD)
-|Real Estate Portoflios|Sust Global|Alistair McGregor|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-REALS-ESTATE-PORTFOLIOS)
-|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-COMPLEX-PORTFOLIOS-FROM-ATOMIC-TO-CONSOLIDATED-TAXONOMY-MODELS)
+|Taxonomy Models for Climate Risk: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODELS-FOR-CLIMATE-RISK-FROM-CHAOS-COMPLEXITY-TO-ORDER-SIMPLICITY)
 |BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Johnny Mattimore/Taylor Cavendish|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-BCBS-239-RISK-AGGREGATION-AND-BCBS530-CLIMATE-RISK)
-|The Big Green Short|Red Hat|Johnny Maittimore/Aric Rosenbaum|[Link Here](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-THE-BIG-GREEN-SHORT/tree/main)
+|Green Contingent Swaps and Bond Pricing|Risk Care & First Derivative|David Kelly & Johnny Mattimore|Under development
+|Taxonomy Models for Societal Risk: a Proto-TSFD|Social Terrain, Forward ESG & First Derivative|Emery Brusset, Augustus Mac Farlane & Johnny Mattimore|Under development
+|Real Estate Portoflios|Sust Global & First Derivative|Alistair McGregor & Johnny Mattimore|Under development
+|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey, Johnny Mattimore, et al|Under development
+|The Big Green Short|Red Hat & First Derivative|Aric Rosenbaum, Marius Bogoevici, Johnny Mattimore|Under development
 
 
