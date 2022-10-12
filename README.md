@@ -6,6 +6,10 @@
 As part of the evolution of OS-SFT, contributing partners wish to push the frontiers of sustainable finance and explore how new taxonomies may evolve to solve new problems. In this section, partners will publish papers that seek to explore and develop new ideas that may stimulate the development of the sustainability market.
 
 ## Posing Challenging Questions
+We encourage partners and users to pose challenging taxonomy questions that can help to solve real business problems.
+
+You may send questions via [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) or via any other partner contacts listed on [PARTNERS](https://github.com/FD-SustainableFinance/06-PARTNERS )
+
 Examples of questions which have been discussed for potential research papers include the following:
 
 1. **Bonds**: How might one approach the repricing the global bond market using carbon issuer emissions data?
