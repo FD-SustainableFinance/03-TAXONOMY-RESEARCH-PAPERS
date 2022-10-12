@@ -25,7 +25,7 @@ Examples of questions which have been discussed for potential research papers in
 
 ## Library of Research Papers
 ```diff
-- Under development - Research Papers shall be posted here by Contributing Partners
+- Under development
 ```
 
 |Research Paper|Contributing Partner(s)|Author(s)|Page Link|
