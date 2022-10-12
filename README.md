@@ -5,6 +5,7 @@
 # [3] TAXONOMY RESEARCH PAPERS
 As part of the evolution of OS-SFT, contributing partners wish to push the frontiers of sustainable finance and explore how new taxonomies may evolve to solve new problems. In this section, partners will publish papers that seek to explore and develop new ideas that may stimulate the development of the sustainability market.
 
+## Posing Challenging Questions
 Examples of questions which have been discussed for potential research papers include the following:
 
 1. **Bonds**: How might one approach the repricing the global bond market using carbon issuer emissions data?
@@ -18,9 +19,9 @@ Examples of questions which have been discussed for potential research papers in
 9. **Climate Risk 2-5 years**: How can one use climate risk model taxonomies for price and credit risk in the next 3-5 year window?
 10. **Climate Risk Simplification**:Can I find simpler, smaller climate risk model taxonomies and will they be effective?  
 
-**PAGE STATUS**
+**Library of Research Papers**
 ```diff
-- Table is under development - Research Papers shall be posted here by Contributing Partners
+- Under development - Research Papers shall be posted here by Contributing Partners
 ```
 
 |Research Paper|Contributing Partner|External Owner|Page Link|
