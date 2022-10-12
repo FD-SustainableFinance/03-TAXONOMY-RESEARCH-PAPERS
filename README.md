@@ -28,7 +28,7 @@ Examples of questions which have been discussed for potential research papers in
 - Under development - Research Papers shall be posted here by Contributing Partners
 ```
 
-|Research Paper|Contributing Partner|External Owner|Page Link|
+|Research Paper|Contributing Partner(s)|Author(s)|Page Link|
 |--------------|--------------------|--------------|---------|
 |Taxonomy Models for Climate Risk: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODELS-FOR-CLIMATE-RISK-FROM-CHAOS-COMPLEXITY-TO-ORDER-SIMPLICITY)
 |BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Taylor Cavendish, Johnny Mattimore|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-BCBS-239-RISK-AGGREGATION-AND-BCBS530-CLIMATE-RISK)
