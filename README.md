@@ -63,12 +63,12 @@ Examples of questions which have been discussed for potential research papers in
 
 |Research Paper|Contributing Partner(s)|Author(s)|Page Link|
 |--------------|--------------------|--------------|---------|
-|Taxonomy Models for Climate Risk: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODELS-FOR-CLIMATE-RISK-FROM-CHAOS-COMPLEXITY-TO-ORDER-SIMPLICITY)
-|BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Taylor Cavendish, Johnny Mattimore|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-BCBS-239-RISK-AGGREGATION-AND-BCBS530-CLIMATE-RISK)
-|Pricing Green Risk: Green Contingent Swaps and Bond Pricing|Risk Care & First Derivative|David Kelly & Johnny Mattimore|Under development
-|Taxonomy Models for Societal Risk: a Proto-TSFD|Social Terrain, Forward ESG & First Derivative|Emery Brusset, Augustus Mac Farlane & Johnny Mattimore|Under development
-|Real Estate Portoflios|Sust Global & First Derivative|Alistair McGregor & Johnny Mattimore|Under development
-|Complex Portoflios: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey, Johnny Mattimore, et al|Under development
-|The Big Green Short|Red Hat & First Derivative|Aric Rosenbaum, Marius Bogoevici, Johnny Mattimore|Under development
+|**Taxonomy Models for Climate Risk**: from Chaos & Complexity to Order & Simplicity|Risk Care|David Kelly|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-TAXONOMY-MODELS-FOR-CLIMATE-RISK-FROM-CHAOS-COMPLEXITY-TO-ORDER-SIMPLICITY)
+|**Integrating Climate Risk**: BCBS 239 Risk Aggregation and BCBS530 Climate Risk|First Derivative|Taylor Cavendish, Johnny Mattimore|[Visit Repository](https://github.com/FD-SustainableFinance/RESEARCH-PAPER-BCBS-239-RISK-AGGREGATION-AND-BCBS530-CLIMATE-RISK)
+|**Pricing Green Risk**: Green Contingent Swaps and Bond Pricing|Risk Care & First Derivative|David Kelly & Johnny Mattimore|Under development
+|**Taxonomy Models for Societal Risk**: a Proto-TSFD|Social Terrain, Forward ESG & First Derivative|Emery Brusset, Augustus Mac Farlane & Johnny Mattimore|Under development
+|**Real Estate Portoflios**: Integrating Physical Risk in RE Pricing|Sust Global & First Derivative|Alistair McGregor & Johnny Mattimore|Under development
+|**Complex Portoflios**: From Atomic to Consolidated Taxonomy Models|Solidatus|Vince Lucey, Johnny Mattimore, et al|Under development
+|**The Big Green Short**: Winners & Losers in the Great Transition|Red Hat & First Derivative|Aric Rosenbaum, Marius Bogoevici, Johnny Mattimore|Under development
 
 
