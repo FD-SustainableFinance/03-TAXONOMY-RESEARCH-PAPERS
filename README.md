@@ -41,7 +41,7 @@ As part of the evolution of OS-SFT, contributing partners wish to push the front
 ## Posing Challenging Questions
 We encourage partners and users to pose challenging taxonomy questions that can help to solve real business problems.
 
-You may send questions via [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) or via any other partner contacts listed on [PARTNERS](https://github.com/FD-SustainableFinance/06-PARTNERS )
+You may send questions via [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) or via any other partner contacts listed on [PARTNERS](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)
 
 Examples of questions which have been discussed for potential research papers include the following:
 
